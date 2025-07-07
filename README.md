@@ -28,6 +28,8 @@ python breacher -u example.com --type php
 
 python breacher -u example.com --type php --fast
 ```
+
+
 - Check all paths without threads
 ```
 python breacher -u example.com
