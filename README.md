@@ -32,6 +32,8 @@ python breacher -u example.com --type php --fast
 
 - Check all paths without threads
 ```
+
+
 python breacher -u example.com
 ```
 - Adding a custom path. For example if you want all paths to start with /data (example.com/data/...) you can do this:
