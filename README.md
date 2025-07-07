@@ -20,6 +20,8 @@ A script to find admin login pages and EAR vulnerabilites.
 
 python breacher -u example.com --type php
 ```
+
+
 - Check all paths with php extension with threads
 ```
 python breacher -u example.com --type php --fast
