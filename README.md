@@ -12,6 +12,7 @@ A script to find admin login pages and EAR vulnerabilites.
 - [x] Checks for robots.txt
 - [x] Support for custom patns
 
+
 ### Usages
 - Check all paths with php extension
 ```
