@@ -3,6 +3,7 @@
 # Breacher
 A script to find admin login pages and EAR vulnerabilites.
 
+
 #### Features
 - [x] Multi-threading on demand
 - [x] Big path list (482 paths)
